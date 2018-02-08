@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Wall -Werror -g   CMakeFiles/task_5.dir/task3_55.c.o CMakeFiles/task_5.dir/double_stack_array.c.o  -o task_5 

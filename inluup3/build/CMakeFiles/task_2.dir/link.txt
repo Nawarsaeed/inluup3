@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Wall -Werror -g   CMakeFiles/task_2.dir/task3_2.c.o  -o task_2 

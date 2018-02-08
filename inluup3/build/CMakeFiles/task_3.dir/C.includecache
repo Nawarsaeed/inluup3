@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/list.c
+stdlib.h
+-
+stdio.h
+-
+list.h
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/list.h
+
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/list.h
+
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/task_2.c
+stdlib.h
+-
+stdio.h
+-
+list.h
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/list.h
+

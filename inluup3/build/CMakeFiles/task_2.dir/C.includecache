@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/task3_2.c
+stdlib.h
+-
+stdio.h
+-
+

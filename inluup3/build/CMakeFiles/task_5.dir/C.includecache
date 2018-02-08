@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/double_stack_array.c
+stdio.h
+-
+stdlib.h
+-
+double_stack_array.h
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/double_stack_array.h
+
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/double_stack_array.h
+
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/task3_55.c
+stdio.h
+-
+double_stack_array.h
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/double_stack_array.h
+stdlib.h
+-
+

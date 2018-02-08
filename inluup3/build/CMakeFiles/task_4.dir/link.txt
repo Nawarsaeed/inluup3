@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Wall -Werror -g   CMakeFiles/task_4.dir/task_4.c.o CMakeFiles/task_4.dir/double_stack_list.c.o  -o task_4 

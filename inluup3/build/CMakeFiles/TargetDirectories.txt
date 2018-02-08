@@ -1,0 +1,7 @@
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/build/CMakeFiles/edit_cache.dir
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/build/CMakeFiles/rebuild_cache.dir
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/build/CMakeFiles/task_5.dir
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/build/CMakeFiles/task_1.dir
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/build/CMakeFiles/task_2.dir
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/build/CMakeFiles/task_3.dir
+/home/EDUNET.ORU.SE/nawsah171/Desktop/2017-12-11/build/CMakeFiles/task_4.dir
